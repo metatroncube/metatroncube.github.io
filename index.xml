@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Academic TIQC</title>
     <link>https://metatroncube.github.io/</link>
       <atom:link href="https://metatroncube.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Academic TIQC</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://metatroncube.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
+      <title>Academic TIQC</title>
       <link>https://metatroncube.github.io/</link>
     </image>
     
@@ -249,7 +249,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-576489231&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-812539467&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -259,7 +259,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-576489231&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-812539467&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -727,9 +727,9 @@ Three
     
     <item>
       <title>An example conference paper</title>
-      <link>https://metatroncube.github.io/publication/conference-paper/</link>
+      <link>https://metatroncube.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://metatroncube.github.io/publication/conference-paper/</guid>
+      <guid>https://metatroncube.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -745,10 +745,10 @@ Three
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://metatroncube.github.io/publication/example/</link>
+      <title>【【【】】】An example conference paper</title>
+      <link>https://metatroncube.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://metatroncube.github.io/publication/example/</guid>
+      <guid>https://metatroncube.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

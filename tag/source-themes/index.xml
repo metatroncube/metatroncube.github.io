@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Source Themes | Academic</title>
+    <title>Source Themes | Academic TIQC</title>
     <link>https://metatroncube.github.io/tag/source-themes/</link>
       <atom:link href="https://metatroncube.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
@@ -46,7 +46,7 @@
     </item>
     
     <item>
-      <title>An example conference paper</title>
+      <title>【【【】】】An example conference paper</title>
       <link>https://metatroncube.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>https://metatroncube.github.io/publication/conference-paper/</guid>
